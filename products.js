@@ -13,7 +13,7 @@ const Products = [
     desc: "90 hz refresh inch display",
     price: 750,
     image:
-      "https://res.cloudinary.com/kenya-power/image/upload/v1654709014/online-shop/zana-latif-vuPOPxPa4Q8-unsplash_u0mlzw.jpg",
+      "https://res.cloudinary.com/kenya-power/image/upload/v1654709014/online-shop/ramal-wickramasinghe-OjMyiwfviQ4-unsplash_f3caod.jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const Products = [
     desc: "Lcd panel display",
     price: 820,
     image:
-      "https://res.cloudinary.com/kenya-power/image/upload/v1654709049/online-shop/sama-hosseini-hLPVT6Ll6W4-unsplash_xoe7wf.jpg",
+      "https://res.cloudinary.com/kenya-power/image/upload/v1654709014/online-shop/ramal-wickramasinghe-OjMyiwfviQ4-unsplash_f3caod.jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const Products = [
     desc: "6.29 amoloed display",
     price: 605,
     image:
-      "https://res.cloudinary.com/kenya-power/image/upload/v1654709014/online-shop/dmitry-rodionov-PjCQ5-4OwaI-unsplash_gembs1.jpg",
+      "https://res.cloudinary.com/kenya-power/image/upload/v1654709014/online-shop/ramal-wickramasinghe-OjMyiwfviQ4-unsplash_f3caod.jpg",
   },
 ];
 
