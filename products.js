@@ -10,7 +10,7 @@ const Products = [
   {
     id: 2,
     name: "Redmi note 11",
-    desc: "90 hz refresh inch display",
+    desc: "90 hz refresh",
     price: 750,
     image:
       "https://res.cloudinary.com/kenya-power/image/upload/v1654709014/online-shop/ramal-wickramasinghe-OjMyiwfviQ4-unsplash_f3caod.jpg",
