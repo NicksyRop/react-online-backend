@@ -13,5 +13,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "ancient-gorge-68821"
-          heroku_email: "kipkorirnickson45@gmail.com"
+          heroku_app_name: "react-online-shop-api"
+          heroku_email: "nicksonkipkorir25@gmail.com"
